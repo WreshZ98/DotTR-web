@@ -1,0 +1,63 @@
+2024-02-03 19:22:44,422:INFO:---- Starting a new run ----
+2024-02-03 19:22:47,029:INFO:User entered stock ticker: msft
+2024-02-03 19:23:08,349:INFO:User entered date range: 2000-01-01 to 2025-01-01
+2024-02-03 19:28:13,154:INFO:---- Run completed successfully ----
+2024-02-03 19:31:12,030:INFO:Starting RSS feed verification
+2024-02-03 19:31:18,279:INFO:Could only find 0 relevant articles out of the requested 10000
+2024-02-03 19:31:18,279:INFO:Total Articles Fetched: 0, Relevant Articles: 0
+2024-02-03 19:44:29,341:INFO:Starting RSS feed verification
+2024-02-03 19:44:39,408:INFO:Could only find 0 relevant articles out of the requested 1
+2024-02-03 19:44:39,408:INFO:Total Articles Fetched: 0, Relevant Articles: 0
+2024-02-03 19:44:45,133:INFO:Starting RSS feed verification
+2024-02-03 19:45:55,141:INFO:---- Starting a new run ----
+2024-02-03 19:45:58,789:INFO:User entered stock ticker: msft
+2024-02-03 19:47:47,982:INFO:User entered date range: 2024-02-01 to 2024-02-04
+2024-02-03 19:47:48,182:WARNING:Not enough samples to train the model.
+2024-02-03 19:47:48,183:ERROR:An unexpected error occurred: cannot access local variable 'future_price_lstm' where it is not associated with a value
+2024-02-03 19:47:59,997:INFO:---- Starting a new run ----
+2024-02-03 19:48:03,182:INFO:User entered stock ticker: msft
+2024-02-03 19:49:02,718:INFO:User entered date range: 1986-03-31 to 2024-02-05
+2024-02-03 19:56:30,362:INFO:---- Run completed successfully ----
+2024-02-03 20:19:46,024:INFO:---- Starting a new run ----
+2024-02-03 20:19:48,382:INFO:User entered stock ticker: goog
+2024-02-03 20:20:38,342:INFO:User entered date range: 2010-01-01 to 2024-03-01
+2024-02-03 20:23:52,381:INFO:---- Run completed successfully ----
+2024-02-03 20:26:55,181:INFO:Starting RSS feed verification
+2024-02-03 20:27:58,710:INFO:Starting RSS feed verification
+2024-02-03 20:30:44,950:INFO:Starting RSS feed verification
+2024-02-03 20:36:38,029:INFO:Starting RSS feed verification
+2024-02-03 20:36:44,270:INFO:Could only find 0 relevant articles out of the requested 1
+2024-02-03 20:36:44,270:INFO:Total Articles Fetched: 0, Relevant Articles: 0
+2024-02-03 20:38:27,879:INFO:Starting RSS feed verification
+2024-02-03 20:39:52,566:INFO:Starting RSS feed verification
+2024-02-03 20:39:57,694:INFO:Total Articles Fetched: 0, Relevant Articles: 0
+2024-02-03 20:42:21,517:INFO:Starting RSS feed verification
+2024-02-03 20:50:11,371:INFO:Starting RSS feed verification
+2024-02-03 20:50:22,011:INFO:Relevant Article #1 Found: Amazon is worth more than Alphabet for the first t
+2024-02-03 20:50:22,011:INFO:Relevant Article #2 Found: Google parent Alphabet took a $1.2 billion hit to 
+2024-02-03 20:50:22,012:INFO:Relevant Article #3 Found: Latest round of layoffs at Alphabet targets YouTub
+2024-02-03 20:50:22,014:INFO:Relevant Article #4 Found: What Google’s antitrust defeat means for the app e
+2024-02-03 20:50:22,015:INFO:Relevant Article #5 Found: How to think about the Google anti-monopoly trial
+2024-02-03 20:50:22,016:INFO:Relevant Article #6 Found: Analysts unveil new Google stock price targets aft
+2024-02-03 20:50:22,017:INFO:Could only find 6 relevant articles out of the requested 20
+2024-02-03 20:50:22,017:INFO:Total Articles Fetched: 6, Relevant Articles: 6
+2024-02-03 20:50:25,830:INFO:Sentiment data visualization completed.
+2024-02-03 20:52:40,590:INFO:---- Starting a new run ----
+2024-02-03 20:52:43,518:INFO:User entered stock ticker: aapl
+2024-02-03 20:53:04,702:INFO:User entered date range: 2010-01-01 to 2024-02-03
+2024-02-03 20:55:25,773:INFO:---- Run completed successfully ----
+2024-02-04 13:44:43,774:INFO:---- Starting a new run ----
+2024-02-04 13:44:45,958:INFO:User entered stock ticker: msft
+2024-02-04 13:45:06,942:INFO:User entered date range: 1986-03-31 to 2024-03-01
+2024-02-04 13:50:25,758:INFO:---- Run completed successfully ----
+2024-02-04 13:51:44,725:INFO:Starting RSS feed verification
+2024-02-04 13:53:40,182:INFO:Starting RSS feed verification
+2024-02-04 13:53:44,584:INFO:Total Articles Fetched: 0, Relevant Articles: 0
+2024-02-04 13:55:24,102:INFO:---- Starting a new run ----
+2024-02-04 13:55:26,821:INFO:User entered stock ticker: msft
+2024-02-04 13:55:40,669:INFO:User entered date range: 1986-03-31 to 2024-03-01
+2024-02-04 13:58:47,222:INFO:Starting RSS feed verification
+2024-02-04 13:59:10,902:INFO:---- Starting a new run ----
+2024-02-04 13:59:12,653:INFO:User entered stock ticker: msft
+2024-02-04 13:59:24,342:INFO:User entered date range: 1986-03-31 to 2024-03-01
+2024-02-04 14:30:02,243:INFO:---- Run completed successfully ----
